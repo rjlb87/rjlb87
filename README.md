@@ -2,22 +2,19 @@
 <!--
 **rjlb87/rjlb87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"><img src="https://bit.ly/406pizX" width="150"/></p>
+<p align="center"><img src="https://bit.ly/3WRUhfX" width="150"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="https://bit.ly/3jlCAYu" alt="LinkedIn Badge" width="100"></a>
 </p>
 
 
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
-<p align="center"><img src="https://bit.ly/3JqRZS6" width="600" height="300"  /></p>
+<p align="center"><img src="https://bit.ly/3XKNy8R" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a passionate Software Developer from Philippines  <img src="https://bit.ly/3XYWcAI" height="20" width="30">
 
-- 🔭 I’m currently enrolled in a 4 month bootcamp.
-- 🌱 Learning different kinds of programming languages.
-- ⚡ In my free time I code.
+- 🔭 Enthusiastic software developer in training, honing skills at a 4-month bootcamp. Driven to learn and grow in the field, seeking opportunities to apply newly acquired knowledge and skills
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
