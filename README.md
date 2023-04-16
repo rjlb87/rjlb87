@@ -14,7 +14,7 @@
 ### :woman_technologist: &nbsp;About Me :
 
 
-- 🔭 Enthusiastic software developer in training, honing skills at a 4-month bootcamp. Driven to learn and grow in the field, seeking opportunities to apply newly acquired knowledge and skills
+- 🔭 Software Developer
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
