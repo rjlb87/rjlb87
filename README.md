@@ -4,7 +4,7 @@
 -->
 <p align="center"><img src="https://bit.ly/3WRUhfX" width="150"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="https://www.flaticon.com/free-icon/discord_2111370?term=discord&page=1&position=3&origin=search&related_id=2111370" alt="LinkedIn Badge" width="100"></a>
+<a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="" alt="LinkedIn Badge" width="100"></a>
 </p>
 
 
