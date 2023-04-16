@@ -4,10 +4,11 @@
 -->
 <p align="center"><img src="https://bit.ly/3WRUhfX" width="150"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="" alt="LinkedIn Badge" width="100"></a>
-</p>
+<!-- <a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="35"></a>
+  <a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="35"></a>
+  -->
 
-
+https://bit.ly/3ojJZtP
 <!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 <!-- <p align="center"><img src="https://bit.ly/3XKNy8R" width="600" height="300"  /></p> -->
 
@@ -15,6 +16,9 @@
 
 
 - 🔭 Software Developer
+- 💻 Night Owl
+- ♨️ Caffeinated
+- 🚀 Spontaneous
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
