@@ -15,7 +15,7 @@
 ### :woman_technologist: &nbsp;About Me :
 
 
-- 🔭 Software Developer
+- 🔭 focusing in Software Development
 - 💻 Night Owl
 - ♨️ Caffeinated
 - 🚀 Spontaneous
