@@ -1,4 +1,7 @@
-<img align="center" alt= "Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
+<div align="center">
+  <img alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
+</div>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Designing Websites<br><br>🌱 I’m currently learning PERN Stack<br><br>💬 Ask me about Designs, Technologies, Pets, Travels<br><br>📫 How to reach me rosellelabo.rl@gmail.com
