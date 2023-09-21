@@ -1,14 +1,16 @@
-<img align= "center" alt= "Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
+<img align="center" alt= "Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
 <h1 align="center">Hi 👋, I'm Rj</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjlb87&label=Profile%20views&color=0e75b6&style=flat" alt="rjlb87" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjlb87" alt="rjlb87" /></a> </p>
+
 - 🔭 I’m currently working on **Designing Websites**
 
 - 🌱 I’m currently learning **PERN Stack**
 
-- 💬 Ask me about **Designs, Technologies,Pets, Travels**
+- 💬 Ask me about **Designs, Technologies, Travels**
 
 - 📫 How to reach me **rosellelabo.rl@gmail.com**
 
