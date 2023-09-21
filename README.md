@@ -1,43 +1,29 @@
+<img align= "center" alt= "Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
+<h1 align="center">Hi 👋, I'm Rj</h1>
+<h3 align="center">Software Developer</h3>
+<img align= "center" alt= "Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
 
-<!--
-**rjlb87/rjlb87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<p align="center"><img src="https://bit.ly/3WRUhfX" width="150"/></p>
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="35"></a>
-  <a href="https://www.linkedin.com/in/roselle-joy-labo-591403253/"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="35"></a>
-  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjlb87&label=Profile%20views&color=0e75b6&style=flat" alt="rjlb87" /> </p>
 
+- 🔭 I’m currently working on **Designing Websites**
 
-<!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
-<!-- <p align="center"><img src="https://bit.ly/3XKNy8R" width="600" height="300"  /></p> -->
+- 🌱 I’m currently learning **PERN Stack**
 
-### :woman_technologist: &nbsp;About Me :
+- 💬 Ask me about **Designs, Technologies,Pets, Travels**
 
+- 📫 How to reach me **rosellelabo.rl@gmail.com**
 
-- 🔭 focusing in Software Development
-- 💻 Night Owl
-- ♨️ Caffeinated
-- 🚀 Spontaneous
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://bit.ly/2IzjHwr" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
-<!-- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp; -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/roselle-joy-labo-591403253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roselle-joy-labo-591403253" height="30" width="40" /></a>
+<a href="https://instagram.com/jmllrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmllrc" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rjlb87&theme=tokyonight)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjlb87&show_icons=true&locale=en&layout=compact" alt="rjlb87" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjlb87&show_icons=true&locale=en" alt="rjlb87" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjlb87&" alt="rjlb87" /></p>
