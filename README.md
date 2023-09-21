@@ -1,7 +1,6 @@
 <img align= "center" alt= "Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
 <h1 align="center">Hi 👋, I'm Rj</h1>
 <h3 align="center">Software Developer</h3>
-<img align= "center" alt= "Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ad9fa3658b36f58833e37cd6cb67451d-1594323724/waadalamoudi259-Animation-Starting-Soon/do-pixel-portraits-and-landscapes.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjlb87&label=Profile%20views&color=0e75b6&style=flat" alt="rjlb87" /> </p>
 
